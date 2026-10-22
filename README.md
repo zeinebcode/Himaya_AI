@@ -9,8 +9,7 @@ Himaya.ai targets two classes of agentic-AI vulnerabilities from the **OWASP Top
 
 It is the basis of my master's thesis and a paper accepted at **I2COMSAPP'26** (Springer LNNS proceedings).
 
-> **Note on this repository:** This is a writeup of the project. The implementation is part of my master's thesis and is kept private pending the camera-ready / defense. Happy to provide a walkthrough or access on request.
-
+> **Note on this repository:** This is a writeup of the project.The full implementation is kept private; happy to provide a walkthrough or access on request.
 ---
 
 ## The problem
