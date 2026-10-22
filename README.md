@@ -42,5 +42,13 @@ The deepest obstacle for ASI08 was **discriminant, not semantic**: a malicious c
 - **Structure:** `core/`, `detection/`, `remediation/`, `evaluation/`, `dashboard/`
 - **Dashboard:** FastAPI + Jinja2 + HTMX, sourced from real runtime execution
 - **Demo:** a three-agent LangGraph banking assistant (`intake → account → responder`) used as the evaluation harness
-
-inebcode](https://github.com/zeinebcode)
+## Status
+ 
+- ASI07 detection (two-layer heuristic pre-filter + LLM judge) and real-time remediation: **complete**
+- ASI08 detection and cascade remediation: **implemented and calibrated**
+- Full test suite passing
+## Author
+ 
+**Zeineb(Zeinabou) Mohamed Elhanavi** 
+GitHub: [github.com/zeinebcode](https://github.com/zeinebcode)
+ 
